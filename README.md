@@ -1,2 +1,8 @@
 # Data_Engineering
 Repository containing portfolio of Data Engineering projects completed by me for client, self learning, and hobby purposes.
+
+# OVERVIEW Finalquery.sql file is creating the master table
+The total columns exist in a table are declared in the file prefix staring with all_columns
+The columns we are using is decalred without prefix
+Query.sql is the master query in general which we are parsing to python code
+
