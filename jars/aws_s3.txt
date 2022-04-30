@@ -1,0 +1,4 @@
+https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3/1.12.209
+https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core/1.12.209
+https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk/1.12.209
+https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-dynamodb/1.12.209
